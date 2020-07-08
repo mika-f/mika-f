@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Mikazuki.
+
+![https://twitter.com/MikazukiFuyuno](https://img.shields.io/static/v1?style=flat-square&label=Twitter&logo=twitter&message=MikazukiFuyuno&color=1DA1F2)
 
 <!--
 **mika-f/mika-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **developing Smartphone Game in Tokyo**.
+- 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
+- 💬 Ask me about anything!
+- 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
+- 😄 Pronouns: **They/Them/Theirs**
+- ⚡ Fun fact: **Play Atelier series, you can buy these on [Steam](https://store.steampowered.com/developer/KOEITECMO)**.
