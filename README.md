@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
 - 😄 Pronouns: **They/Them/Theirs**
 - ⚡ Fun fact: **Play Atelier series, you can buy these on [Steam](https://store.steampowered.com/developer/KOEITECMO)**.
+
+#### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mika-f)
