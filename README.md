@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 #### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mika-f)
+
+
+#### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
