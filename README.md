@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
+Week: 10 July, 2020 - 17 July, 2020
 
-C#          3 hrs 42 mins       █████████████████░░░░░░░░   70.69% 
-Other       1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.82% 
-Git Config  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
-Markdown    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+C#          3 hrs 42 mins       █████████████████░░░░░░░░   70.69 % 
+Other       1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Git Config  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 <!--END_SECTION:waka-->
