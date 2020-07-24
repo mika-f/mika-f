@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#           0 secs          █████████████████░░░░░░░░   68.73 % 
-Git Config   0 secs          ███████░░░░░░░░░░░░░░░░░░   31.27 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
