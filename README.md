@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 1 min      ███████░░░░░░░░░░░░░░░░░░   30.55 % 
-Other        55 mins         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-JSON         42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-C#           24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Makefile     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+PowerShell   1 hr 43 mins    ████████░░░░░░░░░░░░░░░░░   34.87 % 
+JSON         1 hr 21 mins    ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Other        53 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.11 % 
+C#           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Makefile     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 <!--END_SECTION:waka-->
