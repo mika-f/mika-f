@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PowerShell   1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   31.57 % 
-JSON         1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Other        1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-CMake        29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Makefile     29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+PowerShell   1 hr 51 mins    █████████░░░░░░░░░░░░░░░░   35.76 % 
+JSON         1 hr 26 mins    ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+CMake        29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Makefile     29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+C#           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 <!--END_SECTION:waka-->
