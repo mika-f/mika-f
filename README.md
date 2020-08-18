@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#           10 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.00 % 
-Markdown     5 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.00 % 
-Other        1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-HTML         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+C#           11 hrs          ████████████░░░░░░░░░░░░░   47.62 % 
+Markdown     5 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+JavaScript   1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other        1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+TypeScript   1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 ```
 <!--END_SECTION:waka-->
