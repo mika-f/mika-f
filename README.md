@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#         22 hrs 46 mins  ██████████████▓░░░░░░░░░░   59.25 % 
-Rust       6 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Markdown   3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-YAML       2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-JSON       1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+C#         23 hrs 55 mins  ██████████████████▓░░░░░░   75.04 % 
+YAML       2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Markdown   1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Text       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
