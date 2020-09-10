@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#      9 hrs 41 mins   █████████████████████████   99.56 % 
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C#      1 hr 57 mins    █████████████████████████   99.97 % 
 ```
 <!--END_SECTION:waka-->
