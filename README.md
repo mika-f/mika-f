@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.46 % 
-C#           2 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 % 
-SQL          2 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.23 % 
-Other        27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-CSV          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+C#           4 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.92 % 
+JavaScript   3 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 % 
+SQL          2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Other        1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+CSV          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
