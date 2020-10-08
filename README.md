@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other       6 hrs 47 mins   ██████████████░░░░░░░░░░░   55.80 % 
-ShaderLab   4 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   39.64 % 
-C#          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other       6 hrs 47 mins   █████████████░░░░░░░░░░░░   52.08 % 
+ShaderLab   5 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.44 % 
+C#          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Markdown    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
