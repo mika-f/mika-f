@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        6 hrs 53 mins   ██████████████████████▒░░   89.92 % 
-ShaderLab    42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other        6 hrs 53 mins   ████████████████████████▓   99.11 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
