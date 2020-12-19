@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Natsuneko.
 
-![https://twitter.com/6jz](https://img.shields.io/static/v1?style=flat-square&label=Twitter&logo=twitter&message=6jz&color=1DA1F2)
+[![alt](https://img.shields.io/static/v1?style=flat-square&label=Twitter&logo=twitter&message=6jz&color=1DA1F2)](https://twitter.com/6jz)
 
 <!--
 **mika-f/mika-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
