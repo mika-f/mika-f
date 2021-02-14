@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Natsuneko.
 
-[![alt](https://img.shields.io/static/v1?style=flat-square&label=Twitter&logo=twitter&message=6jz&color=1DA1F2)](https://twitter.com/6jz)
-
 <!--
 **mika-f/mika-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,11 +20,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
 - 😄 Pronouns: **They/Them/Theirs**
-- ⚡ Fun fact: **Play Atelier series, you can buy these on [Steam](https://store.steampowered.com/developer/KOEITECMO)**.
+- ⚡ Fun fact: Sleeping Knights
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="195" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="195" /></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="195" />
+</div>
 
 
 #### 📊 Weekly development breakdown
