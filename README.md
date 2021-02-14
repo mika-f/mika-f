@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 #### Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="195" /></div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="195" />
-</div>
+</p>
 
 
 #### 📊 Weekly development breakdown
