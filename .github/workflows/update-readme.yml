@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # Runs at 12am JST
-    - cron: '0 15 * * *'
+    # Runs at 5am JST
+    - cron: '0 20 * * *'
 
 jobs:
   update-readme:
