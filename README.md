@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#      9 hrs 41 mins   █████████████████████████   99.56 % 
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
