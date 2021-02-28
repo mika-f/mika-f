@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#           1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   30.77 % 
+Markdown     1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
+JSON         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Diff         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 <!--END_SECTION:waka-->
