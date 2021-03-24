@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **They/Them/Theirs**
 - ⚡ Fun fact: Sleeping Knights
 
+#### Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=mika-f&no-frame=true&row=1&column=6" />
+
 #### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="180" />
 </p>
 
 
