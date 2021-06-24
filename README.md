@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#         11 hrs 21 mins  ███████████▒░░░░░░░░░░░░░   44.94 % 
-Markdown   7 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Other      3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-TeX        1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-YAML       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown   9 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   44.93 % 
+C#         6 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   31.25 % 
+TeX        1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other      1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+YAML       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 <!--END_SECTION:waka-->
