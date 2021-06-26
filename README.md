@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
-- 😄 Pronouns: **They/Them/Theirs**
+- 😄 Pronouns: **She/Her/Hers**
 - ⚡ Fun fact: Sleeping Knights
 
 #### Trophy
