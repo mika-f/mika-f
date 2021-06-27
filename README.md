@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
 - 😄 Pronouns: **She/Her/Hers**
+- 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
 
 #### Trophy
