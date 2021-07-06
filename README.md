@@ -39,10 +39,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#         2 hrs 31 mins   ████████████▓░░░░░░░░░░░░   50.39 % 
-Markdown   1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   34.10 % 
-Text       27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-TeX        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Text       15 mins         ██████████████▒░░░░░░░░░░   57.19 % 
+C#         5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.81 % 
+Markdown   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 <!--END_SECTION:waka-->
