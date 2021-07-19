@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#         6 hrs 24 mins   ███████████▓░░░░░░░░░░░░░   46.51 % 
-Python     3 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.80 % 
-Markdown   1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Other      1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-YAML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+C#         6 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.78 % 
+Markdown   1 hr 50 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Python     1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other      1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
