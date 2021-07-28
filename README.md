@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **developing Smartphone Game in Tokyo**.
+- 🔭 I’m currently working on **developing _XXX_ in Tokyo**.
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
