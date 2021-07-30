@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 - 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
 
+#### Job History
+
+* 2021/08 - 20XX/XX - Unknown
+* 2018/04 - 2021/07 - Frontend / Backend Engineer (Perl, JavaScript, Vue)
+* 2019/08 - 2019/11 - Frontend Engineer (TypeScript, React)
+* 2016/09 - 2018/03 - Frontend / Backend / Infrastructure Engineer (Ruby, Rails, JavaScript, AWS)
+* 2015/07 - 2016/09 - Frontend / Backend Engineer (Ruby, Rails, JavaScript)
+
 #### Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=mika-f&no-frame=true&row=1&column=6" />
