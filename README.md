@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Natsuneko.
 
+I'm a garbage engineer who can only do 0 (emptiness)  1 (product). I am transferring the repository that has been formed to some extent, so if you are interested, please contact us. It can be yours.
+
+
+#### Bio
+
 <!--
 **mika-f/mika-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
