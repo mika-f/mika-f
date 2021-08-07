@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Natsuneko.
 
-I'm a garbage engineer who can only do 0 (emptiness)  1 (product). I am transferring the repository that has been formed to some extent, so if you are interested, please contact us. It can be yours.
+I'm a garbage engineer who can only do 0 (emptiness)  1 (product). I am transferring the repository that has been formed to some extent, so if you are interested, please contact us. It can be yours.  
+For more information, please [read this gist](https://gist.github.com/mika-f/e49976ca6a100045f3da6317a69c24d5).
 
 * Want to see experimental repositories : [@mika-sandbox](https://github.com/mika-sandbox)
 * Want to see archived repositories : [@mika-archived](https://github.com/mika-archived)
