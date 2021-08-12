@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **developing _XXX_ in Tokyo**.
+- 🔭 I’m currently working on **developing blockchain web platform in Tokyo**.
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 #### Job History
 
-* 2021/08 - 20XX/XX - Unknown
+* 2021/08 - 20XX/XX - Frontend / Backend / Blockchain Engineer (TypeScript, Vue)
 * 2018/04 - 2021/07 - Frontend / Backend Engineer (Perl, JavaScript, Vue)
 * 2019/08 - 2019/11 - Frontend Engineer (TypeScript, React)
 * 2016/09 - 2018/03 - Frontend / Backend / Infrastructure Engineer (Ruby, Rails, JavaScript, AWS)
