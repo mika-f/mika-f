@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.03 % 
-Markdown     3 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.29 % 
-ShaderLab    3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 % 
-C#           2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JSON         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+TypeScript   5 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 % 
+C#           3 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Markdown     3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+ShaderLab    2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other        2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 ```
 <!--END_SECTION:waka-->
