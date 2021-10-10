@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 #### Job History
 
 * 2021/08 - 20XX/XX - Frontend / Backend / Blockchain Engineer (TypeScript, Vue, Solidity)
-* 2018/04 - 2021/07 - Frontend / Backend Engineer (Perl, JavaScript, Vue)
 * 2019/08 - 2019/11 - Frontend Engineer (TypeScript, React)
+* 2018/04 - 2021/07 - Frontend / Backend Engineer (Perl, JavaScript, Vue)
 * 2016/09 - 2018/03 - Frontend / Backend / Infrastructure Engineer (Ruby, Rails, JavaScript, AWS)
 * 2015/07 - 2016/09 - Frontend / Backend Engineer (Ruby, Rails, JavaScript)
 
