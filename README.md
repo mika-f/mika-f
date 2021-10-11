@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 min           █████████████░░░░░░░░░░░░   52.11 % 
-Git Config   1 min           ████████████░░░░░░░░░░░░░   47.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
