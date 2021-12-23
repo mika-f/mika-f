@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     54 mins         ████████████████████▓░░░░   82.25 % 
-YAML         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-C#           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Markdown     1 hr 39 mins    █████████████████████░░░░   83.71 % 
+C#           8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+YAML         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 <!--END_SECTION:waka-->
