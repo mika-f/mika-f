@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   44 mins         █████████████████████▒░░░   85.58 % 
-C#         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
