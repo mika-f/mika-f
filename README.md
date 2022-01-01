@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust         55 mins         ████████████▒░░░░░░░░░░░░   48.82 % 
+Markdown     25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
+TOML         21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
+TypeScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
