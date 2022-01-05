@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust         55 mins         ██████████▓░░░░░░░░░░░░░░   43.09 % 
-Markdown     36 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-TOML         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-TypeScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Rust         55 mins         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Markdown     51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
+Other        38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.63 % 
+TOML         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 <!--END_SECTION:waka-->
