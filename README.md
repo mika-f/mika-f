@@ -56,8 +56,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other      35 mins         █████████████▓░░░░░░░░░░░   54.45 % 
-Markdown   27 mins         ██████████▓░░░░░░░░░░░░░░   42.70 % 
-Rust       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown     1 hr 8 mins     ███████████████░░░░░░░░░░   59.49 % 
+Other        32 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Git Config   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Rust         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C#           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
