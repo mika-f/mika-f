@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **She/Her/Hers**
 - 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
-- 🏥 Diseases: ASDs, ***
+- 🏥 Diseases: ASDs, IgA nephropathy, ***
 
 #### Job History
 
