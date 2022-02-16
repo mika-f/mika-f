@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 26 mins
+Total: 8 hrs 24 mins
 
-Rust       4 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   40.11 % 
-Markdown   2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 % 
-Other      1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
-C#         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-YAML       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Rust       4 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   40.84 % 
+Markdown   2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.40 % 
+Other      1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+C#         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+TOML       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 <!--END_SECTION:waka-->
