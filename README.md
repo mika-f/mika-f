@@ -57,10 +57,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 14 mins  █████████████░░░░░░░░░░░░   52.19 % 
-YAML         3 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Markdown     3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-JSON         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Python       1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Total: 8 hrs 26 mins
+
+Rust       4 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   40.11 % 
+Markdown   2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 % 
+Other      1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
+C#         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+YAML       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 <!--END_SECTION:waka-->
