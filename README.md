@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Natsuneko.
 
-I'm a garbage engineer who can only do 0 (emptiness) to 1 (product). I am transferring the repository that has been formed to some extent, so if you are interested, please contact us. It can be yours.  
-For more information, please [read this gist](https://gist.github.com/mika-f/e49976ca6a100045f3da6317a69c24d5).
+I'm cat!
 
 * If you want to see experimental repositories : [@mika-sandbox](https://github.com/mika-sandbox)
 * If you want to see archived repositories : [@mika-archived](https://github.com/mika-archived)
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **She/Her/Hers**
 - 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
+- 🏥 Diseases: ASDs, ***
 
 #### Job History
 
