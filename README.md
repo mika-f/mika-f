@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-ShaderLab    6 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.74 %
-Markdown     2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-JSON         2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-CSS          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-TypeScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+ShaderLab    6 hrs 55 mins   █████████████▓░░░░░░░░░░░   54.20 %
+Markdown     2 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+JSON         1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+CSS          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+TypeScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
