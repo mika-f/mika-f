@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-ShaderLab    6 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.59 %
-Rust         4 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-Markdown     1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-C#           1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JSON         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-TOML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Rust         5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.87 %
+ShaderLab    2 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+Markdown     1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+C#           1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+JSON         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+TOML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
