@@ -58,12 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         6 hrs 46 mins   ██████████████████▒░░░░░░   73.34 %
-ShaderLab    1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-Markdown     42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-TOML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Rust         2 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
+ShaderLab    1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Other        44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
 ```
 
 <!--END_SECTION:waka-->
