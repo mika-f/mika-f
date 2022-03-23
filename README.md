@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
-ShaderLab    1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Other        44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Other        2 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.29 %
 ```
 
 <!--END_SECTION:waka-->
