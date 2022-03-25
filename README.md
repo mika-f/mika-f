@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **developing blockchain web platform in Tokyo**.
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
 - 💬 Ask me about anything!
-- 📝 Read my blog posts : [Hatenablog](https://mikazuki.hatenablog.jp/)
+- 📝 Read my blog posts : [Natsuneko Memo](https://natsuneko.blog/)
 - 😄 Pronouns: **She/Her/Hers**
 - 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
