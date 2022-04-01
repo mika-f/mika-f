@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-ShaderLab    2 hrs 1 min     ████████████░░░░░░░░░░░░░   48.03 %
-Other        56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+ShaderLab    1 hr 15 mins    ██████████▒░░░░░░░░░░░░░░   41.83 %
+Other        56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.00 %
 ```
 
 <!--END_SECTION:waka-->
