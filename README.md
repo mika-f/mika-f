@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-ShaderLab    34 mins         █████████████▒░░░░░░░░░░░   53.64 %
-Text         25 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown     49 mins         ███████████████▒░░░░░░░░░   61.37 %
+ShaderLab    27 mins         ████████▒░░░░░░░░░░░░░░░░   33.80 %
+Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
