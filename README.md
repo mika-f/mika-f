@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 #### Job History
 
-* 2022/07 - 20XX/XX - Frontend Engineer (TypeScript, React)
+* 2022/07 - 20XX/XX - Frontend Engineer (TypeScript, React, Vue)
 * 2021/08 - 20XX/XX - Frontend / Backend / Blockchain Engineer (TypeScript, Vue, React, Solidity)
 * 2019/08 - 2019/11 - Frontend Engineer (TypeScript, React) @ adish Co., Ltd
 * 2018/04 - 2021/07 - Frontend / Backend Engineer (Perl, JavaScript, Vue)
