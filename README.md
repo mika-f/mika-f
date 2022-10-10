@@ -51,6 +51,5 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mika-f" height="182" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="182" />
 </p>
 
