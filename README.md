@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 * 2016/09 - 2018/03 - Frontend / Backend / Infrastructure Engineer (Ruby, Rails, JavaScript, AWS) @ NGA, Inc
 * 2015/07 - 2016/09 - Frontend / Backend Engineer (Ruby, Rails, JavaScript) @ NGA, Inc
 
-#### Trophy
+#### Metrics
 
-<img src="https://github-profile-trophy.vercel.app/?username=mika-f&no-frame=true&row=1&column=6" />
+![Metrics](https://metrics.lecoq.io/mika-f?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
+
 
 #### Stats
 
@@ -53,13 +54,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-f&layout=compact" height="182" />
 </p>
 
-
-#### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
