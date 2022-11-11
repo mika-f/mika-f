@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **developing blockchain web platform in Tokyo**.
-- 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender) and Shader Programming**.
+- 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender), Kubernetes and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Natsuneko Memo](https://natsuneko.blog/)
 - 😄 Pronouns: **She/Her/Hers**
