@@ -27,30 +27,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender), Kubernetes and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Natsuneko Memo](https://natsuneko.blog/)
-- 😄 Pronouns: **She/Her/Hers**
 - 📓 Note: I have several obstacles in communication.
 - ⚡ Fun fact: Sleeping Knights
 - 🏥 Diseases: ASD, ADHD, IgA nephropathy, \*\*\*
 
-#### Education and Work Experience
+#### Resume
 
-| Period            | Company          | Position                                                                    |
-| ----------------- | ---------------- | --------------------------------------------------------------------------- |
-| 2023/03 - Present | xxx              | Frontend Engineer (TypeScript, Vue, Build Infrastructure)                   |
-| 2022/10 - 2023/03 | xxx              | Frontend / Backend Engineer (Perl, JavaScript, Vue)                         |
-| 2021/08 - 2022/10 | Bit Factory, Inc | Frontend / Backend / Blockchain Engineer (TypeScript, Vue, React, Solidity) |
-| 2018/04 - 2021/07 | xxx              | Frontend / Backend Engineer (Perl, JavaScript, Vue)                         |
+Visit: https://resume.natsuneko.cat
 
-#### Side Job History
-
-| Period            | Company        | Position                                                                    |
-| ----------------- | -------------- | --------------------------------------------------------------------------- |
-| 2022/07 - Present | xxx            | Frontend Engineer (TypeScript, React, Vue, Astro)                           |
-| 2019/08 - 2019/10 | adish Co., Ltd | Frontend Engineer (TypeScript, React)                                       |
-| 2016/09 - 2018/03 | NGA, Inc       | Frontend / Backend / Infrastructure Engineer (Ruby, Rails, JavaScript, AWS) |
-| 2015/07 - 2016/09 | NGA, Inc       | Frontend / Backend Engineer (Ruby, Rails, JavaScript)                       |
-
-#### Job History
 
 #### Metrics
 
