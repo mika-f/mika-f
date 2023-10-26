@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **developing the build infrastructure and modernizing front-end environment in Tokyo**.
+- 🔭 I’m currently working on **developing the platform in Tokyo**.
 - 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender), Kubernetes and Shader Programming**.
 - 💬 Ask me about anything!
 - 📝 Read my blog posts : [Natsuneko Memo](https://natsuneko.blog/)
