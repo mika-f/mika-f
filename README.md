@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Sleeping Knights
 - 🏥 Diseases: ASD, ADHD, IgA nephropathy, \*\*\*
 
-#### Resume
-
-Visit: https://resume.natsuneko.cat
-
 
 #### Metrics
 
