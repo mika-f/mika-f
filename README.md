@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/view?uid=96bmt0lfz20zgg5hw1k72v4s4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=96bmt0lfz20zgg5hw1k72v4s4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=96bmt0lfz20zgg5hw1k72v4s4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=96bmt0lfz20zgg5hw1k72v4s4&redirect=true)
 
 #### Metrics
 
