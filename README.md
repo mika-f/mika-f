@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **developing the platform in Tokyo**.
-- 🌱 I’m currently learning **Rust, Unity3D, 3D Modeling (Blender), Kubernetes and Shader Programming**.
+- 🌱 I’m currently learning **Unity3D, 3D Modeling (Blender), Shader Programming**.
 - 💬 Ask me about anything!
-- 📝 Read my blog posts : [Natsuneko Memo](https://natsuneko.blog/)
-- 📓 Note: I have several obstacles in communication.
+- 📝 Read my blog posts (JP): https://tech.natsuneko.blog
 - ⚡ Fun fact: Sleeping Knights
-- 🏥 Diseases: ASD, ADHD, IgA nephropathy, \*\*\*
 
 #### Now Playing
 
